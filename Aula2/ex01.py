@@ -1,0 +1,6 @@
+n1 = float(3.1416)
+n2 = int(input('valor do raio:'))
+s = n2*n2
+h = s*n1
+print(f'O valor da área é: {h}')
+
