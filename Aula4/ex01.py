@@ -1,8 +1,8 @@
-
+# import sys
 
 x1 = int(input('Informe a nota da etapa 1:'))
 if not (x1>=0 and x1<=100)
-sys.exit('Nota 1 inválida, digite o valor entre 0 e 100')
+# sys.exit('Nota 1 inválida, digite o valor entre 0 e 100')
 x2 = int(input('Informe a nota da etapa 2:'))
 
 r = round( (x1*2 + x2*3) / 5)
