@@ -1,4 +1,4 @@
-import sys
+
 
 x1 = int(input('Informe a nota da etapa 1:'))
 if not (x1>=0 and x1<=100)
