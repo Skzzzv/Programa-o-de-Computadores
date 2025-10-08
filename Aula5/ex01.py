@@ -1,7 +1,7 @@
 x = int(input('Digite o valor de x: '))
 y = int(input('Digite o valor de y: '))
 
-if (x>0) and y>0: 
+if x>0 and y>0: 
     print(f'Você está no primeiro quadrante.')
 
 elif x<0 and y>0:
